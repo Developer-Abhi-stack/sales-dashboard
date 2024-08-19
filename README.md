@@ -62,6 +62,7 @@ Start the server
   npm run start
 ```
 ## Demo
+https://sales-dashboard-apps.netlify.app/
 
 # Hi, I'm Abhishek! 👋
 ## Authors
